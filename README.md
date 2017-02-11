@@ -1,0 +1,2 @@
+# HelpingHand-SpeakUp
+HackDTU project
