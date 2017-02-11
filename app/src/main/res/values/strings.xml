@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sensitivity">Sensitivity</string>
+    <string name="action_stop">Stop and Exit</string>
+    <string name="action_notification">Hide Notification</string>
+    <string name="action_rate">Rate App</string>
+    <string name="set_sensitivity">Set Sensitivity</string>
+    <string name="done">DONE</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="capture_button">Click to capture photo</string>
+    <string name="desc">Capture image holder</string>
+
+</resources>

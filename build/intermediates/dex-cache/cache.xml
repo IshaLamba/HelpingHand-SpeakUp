@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_6b7290c2cad27d8747f65f539da84385fd645596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_78685199184f4d2f4dd019290c536cdc893fadc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3fea0d5643e2b96090f6707f911919fa4f33b060">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ca4854a452895f1e79f1bdbe1cabea283f46a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_66f7a74fc6022cac6db2efa2fc8f339238d716db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_7e00622f9323626bc64e783a8fc9f43f7ba4d10f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7f1a5752000ad5a56a1432d05c3db13de5ef26b0">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cf264927604d39deaf3ceda5a9d36a9df27dd30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_c98ceca43dd974490448e37594bccb1d18cb8707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\NISHTHA\Desktop\HelpingHands-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_cce43adf7d4f5522cb2803c48d9dc4eab2091c68\classes.dex" />
+    </item>
+
+</items>
